@@ -1,4 +1,4 @@
-# WANTED!
+# Shopping list
 
 - flakes
 - chocolates
@@ -6,3 +6,8 @@
 - chips
 - sausage
 - curd
+
+## mobiles
+- samsung
+- lenovo
+- iphone
